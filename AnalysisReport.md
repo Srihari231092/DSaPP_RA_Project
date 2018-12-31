@@ -1,5 +1,8 @@
 # DSSG_assignment
-Repo created to tackle the challenge set by the DSSG for an RA position 
+
+This report contains the results obtained through the EDAs of the dataset given in 
+[KDD Cup 2014](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/) competition hosted on 
+Kaggle.
 
 Different IPython notebooks were made for looking at their respective datasets.
 1. [EDA_projects.ipynb](https://github.com/Srihari231092/KDDCup_2014/blob/master/EDA_projects.ipynb) - projects.csv
