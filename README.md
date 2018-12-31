@@ -1,3 +1,10 @@
+# Note : 
+
+Please check the [Analysis Report](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md) 
+for result of EDA conducted on dataset.
+Jupyter notebooks hyperlinked in the Markdown file for code. The Markdown report contains snapshots of the graphs 
+generated, and hyperlinks for the corresponding Jupyter notebooks. 
+
 # DSaPP Research Assistant and Volunteer Projects
 This repository includes an exercise for aspiring DSaPP volunteers and research assistants to complete. It will help us understand what skills you have so we can find the best fit for you at DSaPP.
 
