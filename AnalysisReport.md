@@ -24,6 +24,17 @@ To view the maps, they are stored locally into the system running the notebook,a
 webbrowser instead. 
 Screenshots of the maps will be given with the report.
 
+### Contents : 
+1. [Database and ETL Summary](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#database-and-etl-summary)
+2. [Analysis](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#analysis)
+3. [Projects Data](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#projects-data)
+4. [Donations Data](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#donations-data)
+5. [Resources Data](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#resources-data)
+6. [Combined Data](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#combined-data)
+7. [Questions for the Project Partner](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#questions-for-the-project-partner
+)
+8. [Packages required](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/AnalysisReport.md#packages-required)
+
 ### Database and ETL summary
 
 Before the data was analysed,it went through an ETL routine given in Utils/ETL.py
