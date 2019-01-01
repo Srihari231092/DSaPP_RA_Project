@@ -54,7 +54,8 @@ Database was hosted on the local machine.
 
 ###### Note: 
 The Geo maps can be viewed 
-[here](https://nbviewer.jupyter.org/github/Srihari231092/DSaPP_RA_Project/blob/master/res/SpatialAnalysis.html)
+[here](https://github.com/Srihari231092/DSaPP_RA_Project/tree/master/res).
+To open them without downloading, please use https://nbviewer.jupyter.org/
 
 
 ### [Projects Data](https://github.com/Srihari231092/DSaPP_RA_Project/blob/master/EDA_projects.ipynb)
