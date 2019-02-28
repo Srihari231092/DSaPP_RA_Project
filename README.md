@@ -1,4 +1,4 @@
-# DSSG_assignment
+# Kaggle - KDD Cup 2014
 
 This report contains the results obtained through the EDAs of the dataset given in 
 [KDD Cup 2014](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/) competition hosted on 
